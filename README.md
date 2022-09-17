@@ -1,4 +1,4 @@
-# Math-Magicians-Calculator
+# React tutorial
 
 > - It is a Single Page App (SPA) that allows users to:
 > - Use React life cycle methods.
