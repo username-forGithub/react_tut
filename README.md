@@ -16,8 +16,8 @@ The following applications are required to be installed for the project to run!
 
 ## App Setup
 - Clone [this](https://github.com/username-forGithub/react_tut.git) GitHub repository using `git clone https://github.com/username-forGithub/react_tut.git`
-- Download all required modules using `npm install` inside the project directory (/math_magicians_calc)
-- Launch project on browser using `npm start` inside the project directory (/math_magicians_calc)
+- Download all required modules using `npm install` inside the project directory (/react_tut.git)
+- Launch project on browser using `npm start` inside the project directory (/react_tut.git)
   - This should launch the app on the browser
   - If the app is not opened immediately, then open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
